@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Milk",
+        "Price": "NGN4000",
+        "Size": "Small",
+        "Id": 1
+    },
+
+    {
+        "Name": "Sugar",
+        "Price": "NGN2000",
+        "Size": "Small",
+        "Id": 2
+    },
+
+    {
+        "Name": "Salt",
+        "Price": "NGN1000",
+        "Size": "Small",
+        "Id": 3
+    },
+
+    {
+        "Name": "Vegetable",
+        "Price": "NGN4000",
+        "Size": "Small",
+        "Id": 4
+    }
+]
